@@ -1,0 +1,6 @@
+framework module Pods_JustEatTestUITests {
+  umbrella header "Pods-JustEatTestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

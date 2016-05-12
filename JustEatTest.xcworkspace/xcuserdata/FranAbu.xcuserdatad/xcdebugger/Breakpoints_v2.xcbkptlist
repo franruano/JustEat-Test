@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JustEatTestTests/RestaurantSearchTests.swift"
+            timestampString = "483752249.049612"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "testInitRestaurant()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustEatTestTests.RestaurantSearchTests.testSetRestaurant () -&gt; ()"
+                  moduleName = "JustEatTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/FranAbu/Documents/Development/RepositorioPersonal/JustEatTest/JustEatTest/JustEatTestTests/RestaurantSearchTests.swift"
+                  timestampString = "483751924.386104"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "21">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustEatTestTests.RestaurantSearchTests.(testSetRestaurant () -&gt; ()).(implicit closure #1)"
+                  moduleName = "JustEatTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/FranAbu/Documents/Development/RepositorioPersonal/JustEatTest/JustEatTest/JustEatTestTests/RestaurantSearchTests.swift"
+                  timestampString = "483751924.386414"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustEatTestTests.RestaurantSearchTests.(testSetRestaurant () -&gt; ()).(implicit closure #2)"
+                  moduleName = "JustEatTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/FranAbu/Documents/Development/RepositorioPersonal/JustEatTest/JustEatTest/JustEatTestTests/RestaurantSearchTests.swift"
+                  timestampString = "483751924.386685"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JustEatTestTests/SearchViewControllerTests.swift"
+            timestampString = "483754430.472669"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "testTableViewCount()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JustEatTestTests/SearchViewControllerTests.swift"
+            timestampString = "483754430.472669"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "testTableViewCount()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustEatTestTests.SearchViewControllerTests.testTableViewCount () -&gt; ()"
+                  moduleName = "JustEatTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/FranAbu/Documents/Development/RepositorioPersonal/JustEatTest/JustEatTest/JustEatTestTests/SearchViewControllerTests.swift"
+                  timestampString = "483754713.216878"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "105">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustEatTestTests.SearchViewControllerTests.(testTableViewCount () -&gt; ()).(implicit closure #1)"
+                  moduleName = "JustEatTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/FranAbu/Documents/Development/RepositorioPersonal/JustEatTest/JustEatTest/JustEatTestTests/SearchViewControllerTests.swift"
+                  timestampString = "483754713.217182"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustEatTestTests.SearchViewControllerTests.(testTableViewCount () -&gt; ()).(implicit closure #2)"
+                  moduleName = "JustEatTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/FranAbu/Documents/Development/RepositorioPersonal/JustEatTest/JustEatTest/JustEatTestTests/SearchViewControllerTests.swift"
+                  timestampString = "483754713.217426"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JustEatTestTests.SearchViewControllerTests.(testTableViewCount () -&gt; ()).(implicit closure #3)"
+                  moduleName = "JustEatTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/FranAbu/Documents/Development/RepositorioPersonal/JustEatTest/JustEatTest/JustEatTestTests/SearchViewControllerTests.swift"
+                  timestampString = "483754713.217589"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
